@@ -15,8 +15,7 @@
  Learning **AI Agents** to enhance web apps intelligence and capabilities.
 
 ### 🧠 Project Manager  
-🎸 Designing and building **custom audio gear**, from **compressors** to **guitar pedals**, blending tech with sound.
-
+🎸 **Leading projects**, from **initiation** step to **closing**, ensuring tasks were delivered on time, within budget, and aligned with organizational goals.
 ---
 
 ## 🔧 **Tech Stack**  
