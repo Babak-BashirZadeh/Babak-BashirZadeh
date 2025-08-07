@@ -12,10 +12,11 @@
 🎨 Specializing in **React.js**, **Next.js**, and creating **innovative & responsive web application**.
 
 ### 🤖 AI  
- Learning **AI Agents** to enhance web apps intelligence and capabilities.
+ Learning **AI Agents** to enhance web apps intelligence and capabilities. 
 
 ### 🧠 Project Manager  
-🎸 **Leading projects**, from **initiation** step to **closing**, ensuring tasks were delivered on time, within budget, and aligned with organizational goals.
+ **Leading projects**, from **initiation** step to **closing**, ensuring tasks were delivered on time, within budget, and aligned with organizational goals. 
+ 
 ---
 
 ## 🔧 **Tech Stack**  
