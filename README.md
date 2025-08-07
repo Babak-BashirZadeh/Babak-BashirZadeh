@@ -39,17 +39,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
- 
-
- ## 🎨 Most Used Languages  
-
-📊 **Most Used Languages (3D Interactive Chart)**  
-🔗 [View Interactive Chart](https://mash021.github.io/mash021/index.html)
-
----
 
 ## 🌍 Portfolio & Projects  
-🔗 **[CodePen](https://codepen.io/mash_021)** | 💼 **[GitHub](https://github.com/mash021)**  
+🔗 **[Portfolio](https://babakthewebdeveloper.netlify.app/)** | 💼 **[GitHub](https://github.com/Babak-BashirZadeh)**  
 
 ---
 
@@ -58,7 +50,7 @@
   <a href="mailto:Babak.bashirzadeh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alisharifi2/">
+  <a href="https://www.linkedin.com/in/babak-bashirzadeh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
